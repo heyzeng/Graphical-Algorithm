@@ -1,7 +1,5 @@
 package leecodeEasy;
 
-import java.util.HashMap;
-
 /**
  * Author:Jude
  * Date:2020-03-10 8:47 AM
