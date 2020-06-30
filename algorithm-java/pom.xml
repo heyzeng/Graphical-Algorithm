@@ -12,7 +12,8 @@
     <artifactId>algorithm-java</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>algorithm-scala</module>
+        <module>dataStructure</module>
+        <module>Algorithm</module>
     </modules>
 
 

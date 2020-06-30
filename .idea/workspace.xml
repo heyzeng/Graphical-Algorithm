@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cf8ea66-1bef-4082-9275-fb84582f0800" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0001_twoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/test/java/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-java/Algorithm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-java/dataStructure/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-java/dataStructure/src/main/java/sparseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0118_pascals_triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/READ.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -51,11 +57,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -65,15 +74,22 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/algorithm-java/src/main/java" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithm-java" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lc_0001_twoSum">
+  <component name="RunManager" selected="Application.lc_0118_pascals_triangle">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -82,6 +98,14 @@
     </configuration>
     <configuration name="lc_0001_twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lc_0001_twoSum" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc_0118_pascals_triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc_0118_pascals_triangle" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -128,6 +152,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lc_0118_pascals_triangle" />
         <item itemvalue="Application.lc_0001_twoSum" />
         <item itemvalue="Application.leecode_01_twoSum" />
         <item itemvalue="Application.test" />
@@ -149,7 +174,8 @@
       <workItem from="1587956197631" duration="431000" />
       <workItem from="1589945249534" duration="2275000" />
       <workItem from="1590141415994" duration="75000" />
-      <workItem from="1590677999241" duration="3128000" />
+      <workItem from="1590677999241" duration="4520000" />
+      <workItem from="1593500173190" duration="1010000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>
@@ -190,26 +216,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1624" height="281" key="GridCell.Tab.0.bottom" timestamp="1590825692062">
+    <state width="1624" height="281" key="GridCell.Tab.0.bottom" timestamp="1593500612029">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/-1080.0.1080.2560/0.0.1680.1050@0.0.1680.1050" timestamp="1590764598348" />
-    <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590825692062" />
-    <state width="1624" height="281" key="GridCell.Tab.0.center" timestamp="1590825692061">
+    <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590827404310" />
+    <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1593500612029" />
+    <state width="1624" height="281" key="GridCell.Tab.0.center" timestamp="1593500612027">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1624" height="281" key="GridCell.Tab.0.center/-1080.0.1080.2560/0.0.1680.1050@0.0.1680.1050" timestamp="1590764598346" />
-    <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590825692061" />
-    <state width="1624" height="281" key="GridCell.Tab.0.left" timestamp="1590825692060">
+    <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590827404309" />
+    <state width="1624" height="281" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1593500612027" />
+    <state width="1624" height="281" key="GridCell.Tab.0.left" timestamp="1593500612026">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1624" height="281" key="GridCell.Tab.0.left/-1080.0.1080.2560/0.0.1680.1050@0.0.1680.1050" timestamp="1590764598345" />
-    <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590825692060" />
-    <state width="1624" height="281" key="GridCell.Tab.0.right" timestamp="1590825692061">
+    <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590827404308" />
+    <state width="1624" height="281" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1593500612026" />
+    <state width="1624" height="281" key="GridCell.Tab.0.right" timestamp="1593500612028">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1624" height="281" key="GridCell.Tab.0.right/-1080.0.1080.2560/0.0.1680.1050@0.0.1680.1050" timestamp="1590764598347" />
-    <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590825692061" />
+    <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590827404310" />
+    <state width="1624" height="281" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1593500612028" />
+    <state x="559" y="291" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593500502211">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="559" y="291" key="com.intellij.testIntegration.createTest.CreateTestDialog/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1593500502211" />
+    <state x="-37" y="149" key="new project wizard" timestamp="1590827002892">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="-37" y="149" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1590827002892" />
   </component>
   <component name="masterDetails">
     <states>
