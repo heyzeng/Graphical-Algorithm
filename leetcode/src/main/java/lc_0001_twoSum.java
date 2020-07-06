@@ -108,7 +108,7 @@ class twoHashMap{
             hashMap.put(numbers[i],i);
         }
 
-        //2、遍历hashmap,求targetz
+        //2、遍历hashmap,求target
         for (int i = 0; i < numbers.length; i++) {
             int complement = target - numbers[i];
             if (hashMap.containsKey(complement) && hashMap.get(complement) != i){
