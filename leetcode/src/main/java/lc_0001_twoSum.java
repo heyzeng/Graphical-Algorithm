@@ -21,7 +21,7 @@ public class lc_0001_twoSum {
         System.out.println("-----------------------");
 
         //双指针
-        Doublepointer doublepointer = new Doublepointer();
+        DoublePointer doublepointer = new DoublePointer();
         int[] twoSum1 = doublepointer.twoSum(numbers, 10);
         //遍历
         for (int i = 0; i < twoSum1.length; i++) {
@@ -71,7 +71,7 @@ class Solution{
 }
 
 // 双指针解法
-class Doublepointer {
+class DoublePointer {
     public int[] twoSum(int[] numbers,int target){
 
         if (numbers == null) {return null;}
