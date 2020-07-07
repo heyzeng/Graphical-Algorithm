@@ -8,8 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="untitled" />
         <module name="dataStructure" />
-        <module name="leetcode" />
         <module name="Algorithm" />
+        <module name="leetcode" />
         <module name="algorithm-scala" />
       </profile>
     </annotationProcessing>

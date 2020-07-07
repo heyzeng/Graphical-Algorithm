@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cf8ea66-1bef-4082-9275-fb84582f0800" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0633_judgeSquareSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/lc_0001_twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0001_twoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -33,12 +36,6 @@
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="231" />
-    <option name="y" value="325" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
   </component>
   <component name="ProjectId" id="1cXbge9YGQHxJwQxPM6jsAEacaC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -79,7 +76,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lc_0001_twoSum">
+  <component name="RunManager" selected="Application.lc_0633_judgeSquareSum">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -96,6 +93,14 @@
     </configuration>
     <configuration name="lc_0118_pascals_triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lc_0118_pascals_triangle" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc_0633_judgeSquareSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc_0633_judgeSquareSum" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -142,6 +147,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lc_0633_judgeSquareSum" />
         <item itemvalue="Application.lc_0001_twoSum" />
         <item itemvalue="Application.lc_0118_pascals_triangle" />
         <item itemvalue="Application.leecode_01_twoSum" />
@@ -166,7 +172,9 @@
       <workItem from="1590141415994" duration="75000" />
       <workItem from="1590677999241" duration="4520000" />
       <workItem from="1593500173190" duration="1086000" />
-      <workItem from="1593999510324" duration="4675000" />
+      <workItem from="1593999510324" duration="4698000" />
+      <workItem from="1594085578563" duration="195000" />
+      <workItem from="1594085933770" duration="2772000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>
@@ -207,34 +215,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1864" height="290" key="GridCell.Tab.0.bottom" timestamp="1594020739901">
-      <screen x="1680" y="0" width="1920" height="1080" />
+    <state width="1624" height="280" key="GridCell.Tab.0.bottom" timestamp="1594095143916">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/-1080.0.1080.2560/0.0.1680.1050@0.0.1680.1050" timestamp="1590764598348" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590827404310" />
-    <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1593501286362" />
-    <state width="1864" height="290" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1594020739901" />
-    <state width="1864" height="290" key="GridCell.Tab.0.center" timestamp="1594020739899">
-      <screen x="1680" y="0" width="1920" height="1080" />
+    <state width="1624" height="280" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1594095143916" />
+    <state width="1864" height="290" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1594021498132" />
+    <state width="1624" height="280" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1594094803344" />
+    <state width="1624" height="280" key="GridCell.Tab.0.center" timestamp="1594095143915">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1624" height="281" key="GridCell.Tab.0.center/-1080.0.1080.2560/0.0.1680.1050@0.0.1680.1050" timestamp="1590764598346" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590827404309" />
-    <state width="1624" height="281" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1593501286361" />
-    <state width="1864" height="290" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1594020739899" />
-    <state width="1864" height="290" key="GridCell.Tab.0.left" timestamp="1594020739898">
-      <screen x="1680" y="0" width="1920" height="1080" />
+    <state width="1624" height="280" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1594095143915" />
+    <state width="1864" height="290" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1594021498131" />
+    <state width="1624" height="280" key="GridCell.Tab.0.center/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1594094803342" />
+    <state width="1624" height="280" key="GridCell.Tab.0.left" timestamp="1594095143914">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1624" height="281" key="GridCell.Tab.0.left/-1080.0.1080.2560/0.0.1680.1050@0.0.1680.1050" timestamp="1590764598345" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590827404308" />
-    <state width="1624" height="281" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1593501286360" />
-    <state width="1864" height="290" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1594020739898" />
-    <state width="1864" height="290" key="GridCell.Tab.0.right" timestamp="1594020739900">
-      <screen x="1680" y="0" width="1920" height="1080" />
+    <state width="1624" height="280" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1594095143914" />
+    <state width="1864" height="290" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1594021498130" />
+    <state width="1624" height="280" key="GridCell.Tab.0.left/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1594094803341" />
+    <state width="1624" height="280" key="GridCell.Tab.0.right" timestamp="1594095143916">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1624" height="281" key="GridCell.Tab.0.right/-1080.0.1080.2560/0.0.1680.1050@0.0.1680.1050" timestamp="1590764598347" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590827404310" />
-    <state width="1624" height="281" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1593501286362" />
-    <state width="1864" height="290" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1594020739900" />
+    <state width="1624" height="280" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1594095143916" />
+    <state width="1864" height="290" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1594021498132" />
+    <state width="1624" height="280" key="GridCell.Tab.0.right/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1594094803343" />
     <state x="559" y="291" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593500502211">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
