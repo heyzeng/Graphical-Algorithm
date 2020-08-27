@@ -10,7 +10,7 @@ public class lc_0633_judgeSquareSum {
 
         judgeSquareSum squareSum = new judgeSquareSum();
 
-        boolean squareSum1 = squareSum.judgeSquareSum(11);
+        boolean squareSum1 = squareSum.judgeSquareSum(3);
         System.out.println(squareSum1);
     }
 

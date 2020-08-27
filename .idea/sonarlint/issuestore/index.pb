@@ -26,3 +26,5 @@ k
 ;algorithm-java/dataStructure/src/main/java/sparseArray.java,6/8/686806b32fd4376f4cd15e013dda0ecdbbbfb9f2
 d
 4leetcode/src/main/java/lc_0118_pascals_triangle.java,3/9/3991cef232148d461f6e93907dc1177c4bb02ac8
+b
+2leetcode/src/main/java/lc_0633_judgeSquareSum.java,0/f/0fe821d015b446391d53c1fd5e4033844071052d

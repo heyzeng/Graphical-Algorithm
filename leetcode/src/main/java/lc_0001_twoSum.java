@@ -101,7 +101,6 @@ class DoublePointer {
  */
 class twoHashMap{
     public int[] twoSum(int[] numbers,int target){
-
         //1、new Hashmap ,把数组塞进去
         HashMap<Integer, Integer> hashMap = new HashMap<>();
         for (int i = 0; i < numbers.length; i++) {
@@ -114,7 +113,6 @@ class twoHashMap{
             if (hashMap.containsKey(complement) && hashMap.get(complement) != i){
                 return new int[]{i , hashMap.get(complement)};
             }
-
         }
         throw new IllegalArgumentException("no hava");
     }
