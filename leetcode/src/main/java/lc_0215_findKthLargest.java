@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.PriorityQueue;
 
 /**
  * Author:Jude
@@ -25,3 +26,4 @@ class findKthLargestSolution{
 
     }
 }
+// 方法二 堆排序
