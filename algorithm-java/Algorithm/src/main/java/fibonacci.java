@@ -13,19 +13,19 @@
 public class fibonacci {
 
     public  static long fibonacii_test(long n){
-
+        //递归思想
         if (n == 0 || n == 1 ){
             return n;
         }else{
            return fibonacii_test(n-1) + fibonacii_test(n-2);
         }
-
     }
+
     public static void main(String[] args) {
+
         for (int i = 0; i <=100; i++) {
-            System.out.println(fibonacii_test(i));
+            System.out.printf("Fibonacii of %d is : %d\n",i,fibonacii_test(i));
 
         }
-
     }
 }
