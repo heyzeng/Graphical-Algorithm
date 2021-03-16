@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cf8ea66-1bef-4082-9275-fb84582f0800" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0455_findContentChildren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Java/Algorithm-Daily/src/main/java/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Java/Algorithm-Daily/src/main/java/fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Java/Algorithm-Daily/src/main/java/xn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-java/Algorithm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-Java/Algorithm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-java/Algorithm/src/main/java/fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-java/dataStructure/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-Scala/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-java/dataStructure/src/main/java/sparseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-Java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-scala/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-Java/Data-Structure/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/lc_0001_twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0001_twoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +75,9 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/algorithm-java/src/main/java" />
@@ -70,11 +86,21 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Algorithm-Java" />
+      <recent name="$PROJECT_DIR$/Algorithm-Java/Algorithm" />
       <recent name="$PROJECT_DIR$/algorithm-java" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lc_0455_findContentChildren">
+  <component name="RunManager" selected="Application.Palindrome">
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindrome" />
+      <module name="Algorithm-Daily" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -83,15 +109,7 @@
     </configuration>
     <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fibonacci" />
-      <module name="Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lc_0001_twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc_0001_twoSum" />
-      <module name="leetcode" />
+      <module name="Algorithm-Daily" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,9 +131,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc_0633_judgeSquareSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc_0633_judgeSquareSum" />
-      <module name="leetcode" />
+    <configuration name="xn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xn" />
+      <module name="Algorithm-Daily" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,6 +142,53 @@
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Daily-Algorithm" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Daily-Algorithm" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lc_0455_findContentChildren" />
+        <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.fibonacci" />
+        <item itemvalue="Application.xn" />
+        <item itemvalue="Application.lc_0455_findContentChildren" />
         <item itemvalue="Application.lc_0215_findKthLargest" />
-        <item itemvalue="Application.lc_0633_judgeSquareSum" />
-        <item itemvalue="Application.lc_0001_twoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +238,9 @@
       <workItem from="1601193355086" duration="1322000" />
       <workItem from="1601277114005" duration="748000" />
       <workItem from="1602642279462" duration="2251000" />
+      <workItem from="1602678831687" duration="234000" />
+      <workItem from="1615861463150" duration="1371000" />
+      <workItem from="1615863268618" duration="5785000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>
@@ -204,50 +272,51 @@
     <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1383" height="235" key="GridCell.Tab.0.bottom" timestamp="1602646423072">
+    <state x="330" y="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1615863758691">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state x="330" y="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.25.1440.813/-1080.-892.1080.1895@0.25.1440.813" timestamp="1615863758691" />
+    <state width="1383" height="277" key="GridCell.Tab.0.bottom" timestamp="1615878680260">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602646423072" />
-    <state width="1624" height="280" key="GridCell.Tab.0.bottom/1680.-894.1080.1897/0.23.1680.956@0.23.1680.956" timestamp="1598510319457" />
-    <state width="1624" height="280" key="GridCell.Tab.0.bottom/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598500419417" />
-    <state width="1624" height="280" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1594105648494" />
-    <state width="1864" height="290" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1594021498132" />
-    <state width="1624" height="280" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1594094803344" />
-    <state width="1383" height="235" key="GridCell.Tab.0.center" timestamp="1602646423069">
+    <state width="1383" height="234" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-892.1080.1895@0.0.1440.900" timestamp="1615865158843" />
+    <state width="1383" height="277" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615878680260" />
+    <state width="1383" height="277" key="GridCell.Tab.0.center" timestamp="1615878680256">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="235" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602646423069" />
-    <state width="1624" height="280" key="GridCell.Tab.0.center/1680.-894.1080.1897/0.23.1680.956@0.23.1680.956" timestamp="1598510319452" />
-    <state width="1624" height="280" key="GridCell.Tab.0.center/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598500419415" />
-    <state width="1624" height="280" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1594105648493" />
-    <state width="1864" height="290" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1594021498131" />
-    <state width="1624" height="280" key="GridCell.Tab.0.center/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1594094803342" />
-    <state width="1383" height="235" key="GridCell.Tab.0.left" timestamp="1602646423068">
+    <state width="1383" height="234" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-892.1080.1895@0.0.1440.900" timestamp="1615865158841" />
+    <state width="1383" height="277" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615878680256" />
+    <state width="1383" height="277" key="GridCell.Tab.0.left" timestamp="1615878680253">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="235" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602646423068" />
-    <state width="1624" height="280" key="GridCell.Tab.0.left/1680.-894.1080.1897/0.23.1680.956@0.23.1680.956" timestamp="1598510319451" />
-    <state width="1624" height="280" key="GridCell.Tab.0.left/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598500419414" />
-    <state width="1624" height="280" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1594105648492" />
-    <state width="1864" height="290" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1594021498130" />
-    <state width="1624" height="280" key="GridCell.Tab.0.left/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1594094803341" />
-    <state width="1383" height="235" key="GridCell.Tab.0.right" timestamp="1602646423070">
+    <state width="1383" height="234" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-892.1080.1895@0.0.1440.900" timestamp="1615865158840" />
+    <state width="1383" height="277" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615878680253" />
+    <state width="1383" height="277" key="GridCell.Tab.0.right" timestamp="1615878680257">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="235" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602646423070" />
-    <state width="1624" height="280" key="GridCell.Tab.0.right/1680.-894.1080.1897/0.23.1680.956@0.23.1680.956" timestamp="1598510319455" />
-    <state width="1624" height="280" key="GridCell.Tab.0.right/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598500419416" />
-    <state width="1624" height="280" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1594105648494" />
-    <state width="1864" height="290" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1594021498132" />
-    <state width="1624" height="280" key="GridCell.Tab.0.right/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1594094803343" />
-    <state x="134" y="1" key="SettingsEditor" timestamp="1601277199954">
+    <state width="1383" height="234" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-892.1080.1895@0.0.1440.900" timestamp="1615865158842" />
+    <state width="1383" height="277" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615878680257" />
+    <state width="1383" height="277" key="GridCell.Tab.1.bottom" timestamp="1615878680398">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="134" y="1" key="SettingsEditor/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1601277199954" />
-    <state x="0" y="35" key="new project wizard" timestamp="1601192140936">
+    <state width="1383" height="277" key="GridCell.Tab.1.bottom/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615878680398" />
+    <state width="1383" height="277" key="GridCell.Tab.1.center" timestamp="1615878680394">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="0" y="35" key="new project wizard/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1601192140936" />
+    <state width="1383" height="277" key="GridCell.Tab.1.center/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615878680394" />
+    <state width="1383" height="277" key="GridCell.Tab.1.left" timestamp="1615878680388">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1383" height="277" key="GridCell.Tab.1.left/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615878680388" />
+    <state width="1383" height="277" key="GridCell.Tab.1.right" timestamp="1615878680396">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1383" height="277" key="GridCell.Tab.1.right/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615878680396" />
+    <state x="0" y="25" width="1080" height="813" key="new project wizard" timestamp="1615863729741">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state x="0" y="46" key="new project wizard/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615862795475" />
+    <state x="0" y="25" width="1080" height="813" key="new project wizard/0.25.1440.813/-1080.-892.1080.1895@0.25.1440.813" timestamp="1615863729741" />
   </component>
   <component name="masterDetails">
     <states>
