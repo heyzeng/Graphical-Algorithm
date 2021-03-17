@@ -5,10 +5,10 @@
 public class Palindrome {
     public static void main(String[] args) {
 
-        System.out.println(isPalindrome("aaabaaa"));
+        System.out.println(isPalindrome("a,a,ba,a"));
         System.out.println(isNumAlpha('a'));
         System.out.println(toLowCase('a'));
-        System.out.println(isPalindrome2("a,a,a,a"));
+        System.out.println(isPalindrome2("a,a,ba,a"));
 
     }
     // 判断回文字符串
