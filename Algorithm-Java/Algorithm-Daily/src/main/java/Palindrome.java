@@ -8,7 +8,7 @@ public class Palindrome {
         System.out.println(isPalindrome("a,a,ba,a"));
         System.out.println(isNumAlpha('a'));
         System.out.println(toLowCase('a'));
-        System.out.println(isPalindrome2("a,a,ba,a"));
+        System.out.println(isPalindrome2("a,a,ba,a,,,,"));
 
     }
     // 判断回文字符串
@@ -20,6 +20,7 @@ public class Palindrome {
         int j = c.length - 1;
 
         while (i < j) {
+
             if (c[i] != c[j]) return false;
 
                 i++;
@@ -42,6 +43,18 @@ public class Palindrome {
 
         while (i < j) {
 
+            //对除了数字和字母以外的做一个判断
+            if (!isNumAlpha(a)) {
+                i++;
+                continue;
+            }
+
+            if (!isNumAlpha(b)){
+                j--;
+                continue;
+            }
+
+            //对前后做对比
             if (a != b) return false;
             i++;
             j++;
