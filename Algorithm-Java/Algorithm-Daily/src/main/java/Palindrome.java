@@ -11,10 +11,11 @@ public class Palindrome {
         System.out.println(isPalindrome2("a,a,ba,a,,,,"));
 
     }
-    // 判断回文字符串
-    public static boolean isPalindrome(String s ){
 
-        s = s.toLowerCase().replaceAll("[^0-9a-z]","");
+    // 判断回文字符串
+    public static boolean isPalindrome(String s) {
+
+        s = s.toLowerCase().replaceAll("[^0-9a-z]", "");
         char[] c = s.toCharArray();
         int i = 0;
         int j = c.length - 1;
@@ -23,8 +24,8 @@ public class Palindrome {
 
             if (c[i] != c[j]) return false;
 
-                i++;
-                j--;
+            i++;
+            j--;
         }
         return true;
     }
@@ -32,12 +33,12 @@ public class Palindrome {
     /**
      * 自己实现大小写转换，去除数字与字母外的干扰
      */
-    public static boolean isPalindrome2 (String s) {
+    public static boolean isPalindrome2(String s) {
 
         if (null == s && "".equals(s)) return false;
 
         int i = 0;
-        int j = s.length() -1;
+        int j = s.length() - 1;
         char a = toLowCase(s.charAt(i));
         char b = toLowCase(s.charAt(j));
 
@@ -49,7 +50,7 @@ public class Palindrome {
                 continue;
             }
 
-            if (!isNumAlpha(b)){
+            if (!isNumAlpha(b)) {
                 j--;
                 continue;
             }
@@ -57,7 +58,7 @@ public class Palindrome {
             //对前后做对比
             if (a != b) return false;
             i++;
-            j++;
+            j--;
 
         }
 
@@ -66,11 +67,11 @@ public class Palindrome {
 
     /**
      * 大写转小写
-     *  a-z：97-122，A-Z：65-90，0-9：48-57。
-     *  大写自负和小写自负相差32
+     * a-z：97-122，A-Z：65-90，0-9：48-57。
+     * 大写自负和小写自负相差32
      */
     public static char toLowCase(char s) {
-        if (s >= 'a' && s <='z') return (char)(s -32);
+        if (s >= 'a' && s <= 'z') return (char) (s - 32);
         return s;
     }
 
@@ -87,7 +88,6 @@ public class Palindrome {
 
         return false;
     }
-
 
 
 }

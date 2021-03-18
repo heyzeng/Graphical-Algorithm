@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
 
+
+
 public class lc_0118_pascals_triangle {
     public static void main(String[] args) {
             solution solution = new solution();

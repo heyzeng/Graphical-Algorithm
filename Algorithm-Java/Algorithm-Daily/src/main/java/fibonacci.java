@@ -14,7 +14,7 @@ public class fibonacci {
     public static void main(String[] args) {
 
         long start = System.currentTimeMillis();
-        System.out.println(FibonacciWithRecursive( 10));
+        System.out.println(FibonacciWithRecursive(10));
         long end = System.currentTimeMillis();
         System.out.println("耗时=" + (end - start));
 
@@ -29,14 +29,16 @@ public class fibonacci {
     public static long FibonacciWithRecursive(int n) {
         if (n == 0 || n == 1) return n;
 
-        return FibonacciWithRecursive(n -1) + FibonacciWithRecursive( n-2);
+        return FibonacciWithRecursive(n - 1) + FibonacciWithRecursive(n - 2);
     }
 
     // 时间复杂度 O(n)
-    public static long FibonacciWithLoop (int n) {
-        if (n == 0 || n == 1 ) return n;
+    public static long FibonacciWithLoop(int n) {
+        if (n == 0 || n == 1) return n;
 
-        int one = 0; int two = 1; int three = 1;
+        int one = 0;
+        int two = 1;
+        int three = 1;
         for (int i = 2; i < n; i++) {
             one = two;
             two = three;
