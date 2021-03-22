@@ -7,17 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Data-Structure" />
+        <module name="Algorithm-Scala" />
         <module name="Algorithm" />
         <module name="leetcode" />
-        <module name="Algorithm-Scala" />
         <module name="Algorithm-Daily" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="algorithm-scala" target="1.8" />
       <module name="Data-Structure" target="1.8" />
       <module name="data-Structures" target="1.5" />
-      <module name="dataStructure" target="1.8" />
       <module name="dataStructures" target="1.5" />
       <module name="untitled" target="1.5" />
     </bytecodeTargetLevel>

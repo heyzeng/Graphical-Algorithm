@@ -31,7 +31,7 @@ public class lc_0028_strStr {
             if (a[i] == b[j]) {//匹配到
                 i++;
                 j++;
-            } else {//匹配不到时候、j 回溯
+            } else {//匹配不到时候、 j 回溯
                 i = i - j + 1;
                 j = 0;
             }
