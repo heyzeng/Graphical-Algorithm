@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cf8ea66-1bef-4082-9275-fb84582f0800" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/lc_0028_strStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0028_strStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/lc_0001_twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0001_twoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lc_0028_strStr">
+  <component name="RunManager" selected="Application.lc_0001_twoSum">
     <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Palindrome" />
       <module name="Algorithm-Daily" />
@@ -103,16 +103,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc_0028_strStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc_0028_strStr" />
+    <configuration name="lc_0001_twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc_0001_twoSum" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc_0455_findContentChildren" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc_0455_findContentChildren" />
+    <configuration name="lc_0028_strStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc_0028_strStr" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -192,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lc_0001_twoSum" />
         <item itemvalue="Application.lc_0028_strStr" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.fibonacci" />
         <item itemvalue="Application.xn" />
-        <item itemvalue="Application.lc_0455_findContentChildren" />
       </list>
     </recent_temporary>
   </component>
@@ -232,6 +232,7 @@
       <workItem from="1615895043562" duration="3492000" />
       <workItem from="1615949440889" duration="766000" />
       <workItem from="1616039375971" duration="7784000" />
+      <workItem from="1616423645086" duration="1097000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>
@@ -271,45 +272,53 @@
       <screen x="0" y="25" width="1440" height="813" />
     </state>
     <state x="330" y="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.25.1440.813/-1080.-892.1080.1895@0.25.1440.813" timestamp="1615863758691" />
-    <state width="1383" height="233" key="GridCell.Tab.0.bottom" timestamp="1616256184618">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1624" height="280" key="GridCell.Tab.0.bottom" timestamp="1616416473670">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1624" height="280" key="GridCell.Tab.0.bottom/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1616416473670" />
     <state width="1383" height="234" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-892.1080.1895@0.0.1440.900" timestamp="1615865158843" />
     <state width="1383" height="233" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1616127438464" />
     <state width="1383" height="233" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1616256184618" />
-    <state width="1383" height="233" key="GridCell.Tab.0.center" timestamp="1616256184616">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1624" height="280" key="GridCell.Tab.0.center" timestamp="1616416473668">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1624" height="280" key="GridCell.Tab.0.center/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1616416473668" />
     <state width="1383" height="234" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-892.1080.1895@0.0.1440.900" timestamp="1615865158841" />
     <state width="1383" height="233" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1616127438460" />
     <state width="1383" height="233" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1616256184616" />
-    <state width="1383" height="233" key="GridCell.Tab.0.left" timestamp="1616256184610">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1624" height="280" key="GridCell.Tab.0.left" timestamp="1616416473667">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1624" height="280" key="GridCell.Tab.0.left/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1616416473667" />
     <state width="1383" height="234" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-892.1080.1895@0.0.1440.900" timestamp="1615865158840" />
     <state width="1383" height="233" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1616127438458" />
     <state width="1383" height="233" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1616256184610" />
-    <state width="1383" height="233" key="GridCell.Tab.0.right" timestamp="1616256184617">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1624" height="280" key="GridCell.Tab.0.right" timestamp="1616416473669">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1624" height="280" key="GridCell.Tab.0.right/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1616416473669" />
     <state width="1383" height="234" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-892.1080.1895@0.0.1440.900" timestamp="1615865158842" />
     <state width="1383" height="233" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1616127438462" />
     <state width="1383" height="233" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1616256184617" />
-    <state width="1383" height="277" key="GridCell.Tab.1.bottom" timestamp="1615879196579">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1624" height="348" key="GridCell.Tab.1.bottom" timestamp="1616405880941">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1624" height="348" key="GridCell.Tab.1.bottom/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1616405880941" />
     <state width="1383" height="277" key="GridCell.Tab.1.bottom/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615879196579" />
-    <state width="1383" height="277" key="GridCell.Tab.1.center" timestamp="1615879196577">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1624" height="348" key="GridCell.Tab.1.center" timestamp="1616405880939">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1624" height="348" key="GridCell.Tab.1.center/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1616405880939" />
     <state width="1383" height="277" key="GridCell.Tab.1.center/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615879196577" />
-    <state width="1383" height="277" key="GridCell.Tab.1.left" timestamp="1615879196576">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1624" height="348" key="GridCell.Tab.1.left" timestamp="1616405880939">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1624" height="348" key="GridCell.Tab.1.left/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1616405880939" />
     <state width="1383" height="277" key="GridCell.Tab.1.left/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615879196576" />
-    <state width="1383" height="277" key="GridCell.Tab.1.right" timestamp="1615879196578">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1624" height="348" key="GridCell.Tab.1.right" timestamp="1616405880940">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1624" height="348" key="GridCell.Tab.1.right/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1616405880940" />
     <state width="1383" height="277" key="GridCell.Tab.1.right/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615879196578" />
     <state x="0" y="25" width="1080" height="813" key="new project wizard" timestamp="1615863729741">
       <screen x="0" y="25" width="1440" height="813" />
