@@ -1,9 +1,3 @@
-/**
- * Author:Jude
- * Date:2020-10-14 10:26 上午
- */
-
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 /**
@@ -20,15 +14,11 @@ public class lc_0455_findContentChildren {
         int[] gg = {1,2,3};
         int[] ss  ={1,1};
 
-        findContentChildren findContentChildren = new findContentChildren();
-        findContentChildren.findContentC(gg,ss);
+        int contentC = findContentC(gg, ss);
+        System.out.println(contentC);
     }
-}
 
-
-class findContentChildren {
-
-    public int findContentC(int[] g, int[] s) {
+    public static int findContentC(int[] g, int[] s) {
 
         //1 g s 为null
         if (g == null || s == null) return 0;
@@ -50,5 +40,6 @@ class findContentChildren {
         return gi;
     }
 }
+
 
 

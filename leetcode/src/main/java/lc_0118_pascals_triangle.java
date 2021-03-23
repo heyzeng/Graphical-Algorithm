@@ -3,14 +3,12 @@ import java.util.List;
 
 public class lc_0118_pascals_triangle {
     public static void main(String[] args) {
-            solution solution = new solution();
-            System.out.println(solution.generate(5));
+
+            List<List<Integer>> generate = generate(10);
+            System.out.println(generate);
     }
 
-}
-
-class solution {
-        public List<List<Integer>> generate(int numRows) {
+        public static List<List<Integer>> generate(int numRows) {
 
                 ArrayList<List<Integer>> lists = new ArrayList<>();
                 for (int i = 0; i <numRows; i++) {
@@ -30,3 +28,5 @@ class solution {
         }
 
 }
+
+
