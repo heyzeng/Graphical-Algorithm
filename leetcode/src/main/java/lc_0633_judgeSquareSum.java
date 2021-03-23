@@ -8,32 +8,29 @@
 public class lc_0633_judgeSquareSum {
     public static void main(String[] args) {
 
-        judgeSquareSum squareSum = new judgeSquareSum();
-
-        boolean squareSum1 = squareSum.judgeSquareSum(3);
-        System.out.println(squareSum1);
+        boolean b = judgeSquareSum(21);
+        System.out.println(b);
     }
 
-}
-class judgeSquareSum{
-    public boolean judgeSquareSum(int target){
+    public static boolean judgeSquareSum(int target) {
+        if (target < 0) {
+            return false;
+        }
 
-        //判断target是否为正
-        if (target <0) return false;
         int i = 0;
-        int j = (int)Math.sqrt(target);
+        int j = (int) Math.sqrt(target);
+        while (i <= j) {
 
-        while(i <= j){
-            int powSum = i * i + j * j;
-            if (powSum == target){
+            int num = i * i + j * j;
+
+            if (target == num) {
                 return true;
-            }else if (powSum > target){
-                j--;
-            }else {
+            } else if (num < target) {
                 i++;
+            } else {
+                j--;
             }
         }
-        return false;
+        throw new IllegalArgumentException("no have");
     }
-
 }
