@@ -1,2 +1,24 @@
-# ThinkingAlgorithm
-ThinkingofAlgorithm
+# 算法
+## LeetCode
+### 排序算法
+
+### 查找算法
+
+### 数组
+
+### 字符串
+
+### 链表
+
+### 二叉树
+
+### 数学
+
+### 栈和队列
+
+### 动态规划
+
+
+- [twoSum]
+- [strStr]
+## 

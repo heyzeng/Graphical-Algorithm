@@ -14,7 +14,7 @@ public class lc_0118_pascals_triangle {
                 for (int i = 0; i <numRows; i++) {
                         ArrayList<Integer> arrayList = new ArrayList<>();
                         for (int j = 0; j <= i; j++) {
-                                if (j ==0 | j==i){
+                                if (j ==0 || j==i){
                                         arrayList.add(1);
                                 }else{
                                         arrayList.add(lists.get(i-1).get(j-1) + lists.get(i-1).get(j));
