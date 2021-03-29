@@ -7,7 +7,7 @@
 ### 打印问题
 - 代码
 ```java
-class solution{
+class Solution{
 public static void test(int n) {
     if (n > 2) {
 	    test(n - 1);
@@ -24,7 +24,7 @@ test(4)
 ### 阶乘问题
 - 代码
 ```java
-class solution{
+class Solution{
 public static int factorial(int n) {
     if (n == 1) { //n=1
     return 1;
@@ -59,7 +59,7 @@ n = 5
 - 将用栈解决的问题-->第归代码比较简洁
 # 经典题
 ## 题1：斐波那契数
-> 请使用递归的方式，求出斐波那契数0,1,1,2,3,5,8,13...给你一个整数n，求出它的斐波那契数是多少？
+>请使用递归的方式，求出斐波那契数0,1,1,2,3,5,8,13...给你一个整数n，求出它的斐波那契数是多少？
 ```java
 class Solution{
    public static long FibonacciWithRecursive(int n) {
@@ -71,6 +71,7 @@ class Solution{
 ```
 ## 题2：求函数值
 >已知 f(1)=3; f(n) = 2*f(n-1)+1 请使用递归的思想编程，求出 f(n)的值?
+
 ```java
 class Solution{
     public static int Function(int n){
