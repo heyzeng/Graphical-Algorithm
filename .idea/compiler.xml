@@ -7,12 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Data-Structure" />
+        <module name="Algorithm-Scala" />
         <module name="Algorithm" />
         <module name="algorithm-scala" />
-        <module name="Algorithm-Scala" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Algorithm-Daily" target="1.8" />
       <module name="algorithm-java" target="1.8" />
       <module name="Data-Structure" target="1.8" />
       <module name="data-Structures" target="1.5" />

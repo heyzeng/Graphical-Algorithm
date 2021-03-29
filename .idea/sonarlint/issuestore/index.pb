@@ -40,19 +40,7 @@ k
 ;Algorithm-Java/Algorithm-Daily/src/main/java/fibonacci.java,5/d/5d7b8432c2e6a8ca07694670d52539dfbf7c2da7
 Z
 *leetcode/src/main/java/lc_0028_strStr.java,e/1/e1fadeeadc977e2581b94176a90a99b10d667f56
-P
- LeetCode/src/test/java/test.java,7/8/7813edb4940e7ae9a62eba4c4c632a48ee43c313
-F
-Algorithm-Java/pom.xml,7/9/795f27a990868086c7113649e2471ebc4887dbc8
-b
-2LeetCode/src/main/java/lc_0215_findKthLargest.java,5/f/5f5eb556d9ad38994fe151735e58f3f8606dca92
 Z
 *LeetCode/src/main/java/lc_0028_strStr.java,0/c/0c20086632028acbc5dba6add1007f78a67d781f
-b
-2LeetCode/src/main/java/lc_0633_judgeSquareSum.java,0/7/079956f2a538750b2e102267ea8db20d39a3c17c
-d
-4LeetCode/src/main/java/lc_0118_pascals_triangle.java,8/1/81c4cce6b745ff4c3516e467ebe5fb6fb9fd8f10
-g
-7LeetCode/src/main/java/lc_0455_findContentChildren.java,5/6/5613b6a5627cbe75f893df38cb17c9849aecd91f
 Z
 *LeetCode/src/main/java/lc_0001_twoSum.java,c/6/c667557a0fa6e57fa8f6ed35b5e368810406e012
