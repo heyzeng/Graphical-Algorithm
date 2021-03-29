@@ -6,7 +6,7 @@
 - 阶乘问题
 ### 打印问题
 - 代码
-```java
+```
 public static void test(int n) {
 if (n > 2) {
 	test(n - 1);
@@ -21,17 +21,16 @@ test(4)
 ```
 ### 阶乘问题
 - 代码
-```java
+```
 public static int factorial(int n) {
 if (n == 1) { //n=1
 return 1;
 } else {
 return factorial(n - 1) * n; //简洁
 }}
-
 ```
 - 结果示例
-```java
+```
 n = 5
 => 5 * f(4)
 => 5 * (4 * f(3))
