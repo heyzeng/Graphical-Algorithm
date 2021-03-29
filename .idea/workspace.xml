@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cf8ea66-1bef-4082-9275-fb84582f0800" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm-Java/Data-Structure/src/main/java/recursion/Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm-Java/Data-Structure/src/main/java/recursion/recursion.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -248,7 +243,7 @@
       <workItem from="1616643950490" duration="1311000" />
       <workItem from="1616657514897" duration="290000" />
       <workItem from="1616896783303" duration="703000" />
-      <workItem from="1616980648490" duration="4253000" />
+      <workItem from="1616980648490" duration="5249000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>

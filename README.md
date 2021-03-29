@@ -11,7 +11,17 @@
 
 
 
+## Leetcode
+|  Number   | Title  | Programming Language |Difficulty Level|   
+|  ----  | ----  |  ----  | ----  |
+|    1   |  [Two Sum]()    | [Java](https://github.com/heyzeng/Graphical-Algorithm/blob/master/LeetCode/src/main/java/lc_0001_twoSum.java)  | Easy |
+|    28  |  [Implement strStr]()    | [Java](https://github.com/heyzeng/Graphical-Algorithm/blob/master/LeetCode/src/main/java/lc_0028_strStr.java)  |Easy | 
+|118|| [Java](https://github.com/heyzeng/Graphical-Algorithm/blob/master/LeetCode/src/main/java/lc_0118_pascals_triangle.java)||
+|215|| [Java](https://github.com/heyzeng/Graphical-Algorithm/blob/master/LeetCode/src/main/java/lc_0215_findKthLargest.java)||
+|455|| [Java](https://github.com/heyzeng/Graphical-Algorithm/blob/master/LeetCode/src/main/java/lc_0455_findContentChildren.java)||
+|633|| [Java](https://github.com/heyzeng/Graphical-Algorithm/blob/master/LeetCode/src/main/java/lc_0633_judgeSquareSum.java)||
 
-- [twoSum]
-- [strStr]
+
+
+
 
