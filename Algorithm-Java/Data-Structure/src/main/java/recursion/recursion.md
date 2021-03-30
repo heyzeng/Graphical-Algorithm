@@ -52,7 +52,7 @@ n = 5
 - 方法的局部变量是独立的，不会相互影响, 比如n变量
 - 如果方法中使用的是引用类型变量(比如数组)，就会共享该引用类型的数据.
 - 递归必须向退出递归的条件逼近，否则就是无限递归,出现`StackOverflowError`)
-- 当一个方法执行完毕，或者遇到`return`，就会返回，遵守谁调用，就将结果返回给谁，同时当方法执行完毕或者返回时，该方法也就执行完毕
+- 当一个方法执行完毕，或者遇到`return，就会返回，遵守谁调用，就将结果返回给谁，同时当方法执行完毕或者返回时，该方法也就执行完毕
 ## 递归能解决什么样的问题
 - 各种数学问题如: 八皇后问题 , 汉诺塔, 阶乘问题, 迷宫问题, 球和篮子的问题(google编程大赛)
 - 各种算法中也会使用到递归，比如快排，归并排序，二分查找，分治算法等.
@@ -81,4 +81,52 @@ class Solution{
 }
 }
 ```
+### 题3：猴子吃桃子问题
+>有一堆桃子，猴子第一天吃了其中的一半，并再多吃了一个！以后每天猴子都吃其中的一半，然后再多吃一个。当到第十天时，想再吃时（还没吃），发现只有1个桃子了。问题：最初共多少个桃子？
+```java
+class Solution{
+public static int monkeyEatPeach(int Day) {
+        if (Day <= 0) {
+            System.out.println("时间不能小于 0");
+        }
 
+        if (Day == 10) {
+            return 1;
+        } else {
+            return 2 * (monkeyEatPeach(Day + 1) + 1);
+        }
+    }}
+```
+### 题4：二分查找
+>数组是有序的、请使用递归方式的二分查找法，完成查找 `binarySearch`
+```java
+class Solution{
+public static int binarySearch(int[] arr,int left, int right, int findNum,int midNum) {
+        if (right < left) return -1;
+        midNum = (left + right) / 2;
+        
+        if (findNum == arr[midNum]) {
+            return (left + right) / 2;
+        } else if (findNum > arr[midNum]){
+            return binarySearch(arr, midNum + 1, right, findNum, midNum);
+        } else {
+            return binarySearch(arr, left, midNum  - 1, findNum, midNum);
+        }
+    }}
+```
+### 题5：汉诺塔
+```java
+class Solution{
+public static void HanoiTower(int n,char a, char b, char c) {
+
+        if (n == 1) {
+            System.out.println( ++ step +"步数"+ a + "->" + c);
+        }else {
+            // a b c  借助c 把 n-1 的盘子放到b
+            HanoiTower(n-1,a,c,b);
+            // 把 a -> c 把 最后一个盘子放到 c
+            System.out.println(++step +"步数"+ a + "->" + c);
+            // a b c  借助b 把 n-1 的盘子放到c
+            HanoiTower(n-1,b,a,c);
+        }}}
+```
