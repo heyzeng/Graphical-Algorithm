@@ -131,6 +131,13 @@ public class Recursion {
     }
 
     // 8 汉诺塔
+    //思路
+    //1. 当只有一个盘的时候，就是 'A' -> 'C'
+    //2. 如果有多个盘 n，我们可以看成两个盘 上面的所有盘(n-1) 和 最下的一个盘(n)
+    //2.1 先把 上面的所有盘(n-1) 移动到 A ->  B塔
+    //2.2 把 最下的一个盘(n) 从 A->C
+    //2.3 把  所有盘(n-1) B->C
+
     public static void HanoiTower(int n,char a, char b, char c) {
 
         if (n == 1) {

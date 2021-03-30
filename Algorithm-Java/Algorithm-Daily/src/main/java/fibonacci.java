@@ -46,5 +46,4 @@ public class fibonacci {
         }
         return three;
     }
-    // 小青蛙跳台阶  1 2 3 5 8
 }

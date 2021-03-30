@@ -130,3 +130,40 @@ public static void HanoiTower(int n,char a, char b, char c) {
             HanoiTower(n-1,b,a,c);
         }}}
 ```
+## 递归的优化
+>对于递归的问题，一般来说是自上而下递归的，知道递归到最低层，在一层层的把值返回。
+
+>当`n`的取值非常大的时候，比如`n = 5000`时，那么递归要想下递归5000层之后，到`n<=1`时，才把结果一层层返回。如果`n`取值过大，可能导致栈的空间不够用。
+>可以考虑用`for`循环做累加
+```java
+class Solution{
+    public static long FibonacciWithLoop(int n) {
+            if (n == 0 || n == 1) return n;
+    
+            int one = 0;
+            int two = 1;
+            int three = 1;
+            for (int i = 2; i < n; i++) {
+                one = two;
+                two = three;
+                three = one + two;
+            }
+            return three;
+        }
+}
+```
+
+### 时间复杂度对比
+- 递归的常用复杂度分析
+
+| 递归关系 | 结果 | 举例 |
+| ---- | ---- | ---- |
+|T(n) = T(n/2) + O(1)|T(n) = O(logn)|二分查找、欧几里得|
+|T(n) = T(n - 1) + O(1)|T(n) = O(n)|线性查找|
+|T(n) = 2T(n/2) + O(n)|T(n) = O(nlogn)|归并、快排|
+|T(n) = T(n - 1) + O(n)|T(n) = O(n*n)|选择排序、插入排序|
+|T(n) = 2T(n -1 ) + O(1)|T(n) = O(2^n)|汉诺塔|
+|T(n) = T(n -1 ) + T(n -2 ) O(1)|T(n) = O(2^n)|递归的斐波那契|
+
+- 优化后的`for`循环复杂度对比
+>优化后`for`时间复杂为`O(n)`,是小于O(2^n)
