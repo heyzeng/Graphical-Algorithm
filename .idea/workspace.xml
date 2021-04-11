@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cf8ea66-1bef-4082-9275-fb84582f0800" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Java/Data-Structure/src/main/java/DoublePointer/DoublePointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Java/Data-Structure/src/main/java/DoublePointer/DoublePointer.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/main/java/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +241,7 @@
       <workItem from="1616896783303" duration="708000" />
       <workItem from="1617335656784" duration="942000" />
       <workItem from="1617853083081" duration="1174000" />
-      <workItem from="1617952341935" duration="307000" />
+      <workItem from="1617952341935" duration="2819000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>
