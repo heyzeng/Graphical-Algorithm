@@ -50,3 +50,11 @@ t
 DAlgorithm-Java/Data-Structure/src/main/java/recursion/Recursion.java,c/4/c4480f1505a2480da41db59353f698a5500311a5
 r
 BAlgorithm-Java/Data-Structure/src/main/java/recursion/recursion.md,f/3/f338e211306164472475bab690ecf08614ac1f08
+d
+4LeetCode/src/main/java/lc_0118_pascals_triangle.java,8/1/81c4cce6b745ff4c3516e467ebe5fb6fb9fd8f10
+z
+JAlgorithm-Java/Data-Structure/src/main/java/DoublePointer/DoublePointer.md,8/4/849ced5ba98c4e5479c3493ee414a3d52e656b07
+|
+LAlgorithm-Java/Data-Structure/src/main/java/DoublePointer/DoublePointer.java,5/a/5acfac472e747892d8886c64f05992c2ffd645be
+b
+2LeetCode/src/main/java/lc_0215_findKthLargest.java,5/f/5f5eb556d9ad38994fe151735e58f3f8606dca92
