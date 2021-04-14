@@ -58,3 +58,7 @@ JAlgorithm-Java/Data-Structure/src/main/java/DoublePointer/DoublePointer.md,8/4
 LAlgorithm-Java/Data-Structure/src/main/java/DoublePointer/DoublePointer.java,5/a/5acfac472e747892d8886c64f05992c2ffd645be
 b
 2LeetCode/src/main/java/lc_0215_findKthLargest.java,5/f/5f5eb556d9ad38994fe151735e58f3f8606dca92
+a
+1LeetCode/src/main/java/lc_0345_reverseVowels.java,6/0/60268b40c5c47b6eadc5eaebe3a89a417b06222c
+X
+(LeetCode/src/main/java/lc_069_sqrtX.java,2/e/2e71cb4d814978b7bf6825ab94b8492a0794766a
