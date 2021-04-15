@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cf8ea66-1bef-4082-9275-fb84582f0800" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Java/Algorithm/src/main/java/binarysearch/binarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Java/Algorithm/src/main/java/doublepointer/DoublePointer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Java/Data-Structure/src/main/java/linkedlist/linkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Java/Data-Structure/src/main/java/linkedlist/linkedList.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0160_getIntersectionNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Java/Data-Structure/src/main/java/DoublePointer/DoublePointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-Java/Algorithm/src/main/java/doublepointer/DoublePointer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Java/Data-Structure/src/main/java/DoublePointer/DoublePointer.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-Java/Algorithm/src/main/java/binarysearch/binarySearch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Java/Data-Structure/src/main/java/recursion/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-Java/Algorithm/src/main/java/recursion/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Java/Data-Structure/src/main/java/recursion/recursion.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-Java/Algorithm/src/main/java/recursion/recursion.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,24 +70,28 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Algorithm-Java" />
-      <recent name="$PROJECT_DIR$/Algorithm-Java/Algorithm" />
-      <recent name="$PROJECT_DIR$/algorithm-java" />
-      <recent name="$PROJECT_DIR$" />
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Algorithm-Java/Algorithm/src/main/java" />
+      <recent name="$PROJECT_DIR$/Algorithm-Java/Algorithm/src/main" />
+      <recent name="$PROJECT_DIR$/Algorithm-Java/Algorithm/src/main/java/recursion" />
+      <recent name="$PROJECT_DIR$/Algorithm-Java" />
+      <recent name="$PROJECT_DIR$/Algorithm-Java/Algorithm" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/algorithm-java/src/main/java" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.lc_069_sqrtX">
+  <component name="RunManager" selected="Application.lc_0160_getIntersectionNode">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -95,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc_0118_pascals_triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc_0118_pascals_triangle" />
+    <configuration name="lc_0160_getIntersectionNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc_0160_getIntersectionNode" />
       <module name="Graphical-Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -192,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lc_0160_getIntersectionNode" />
         <item itemvalue="Application.lc_069_sqrtX" />
         <item itemvalue="Application.lc_0345_reverseVowels" />
         <item itemvalue="Application.lc_0001_twoSum (1)" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.lc_0118_pascals_triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -243,6 +254,8 @@
       <workItem from="1617952341935" duration="3567000" />
       <workItem from="1618310893243" duration="8060000" />
       <workItem from="1618387512478" duration="106000" />
+      <workItem from="1618394473563" duration="756000" />
+      <workItem from="1618458154712" duration="3840000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>
@@ -283,6 +296,10 @@
     </state>
     <state x="0" y="0" key="#Project_Structure/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1616643937557" />
     <state x="0" y="0" width="1080" height="900" key="#Project_Structure/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1616114929171" />
+    <state x="606" y="181" key="#com.intellij.ide.util.MemberChooser" timestamp="1618492017322">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="606" y="181" key="#com.intellij.ide.util.MemberChooser/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1618492017322" />
     <state x="337" y="123" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1616643805323">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -292,31 +309,35 @@
     </state>
     <state x="385" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1616644184200" />
     <state x="330" y="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.25.1440.813/-1080.-892.1080.1895@0.25.1440.813" timestamp="1615863758691" />
-    <state width="1624" height="336" key="GridCell.Tab.0.bottom" timestamp="1618387617909">
+    <state x="512" y="230" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618490251623">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="336" key="GridCell.Tab.0.bottom/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1618387617909" />
+    <state x="512" y="230" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1618490251623" />
+    <state width="1624" height="191" key="GridCell.Tab.0.bottom" timestamp="1618477652314">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1624" height="191" key="GridCell.Tab.0.bottom/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1618477652314" />
     <state width="1383" height="234" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-892.1080.1895@0.0.1440.900" timestamp="1615865158843" />
     <state width="1383" height="233" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1616127438464" />
     <state width="1383" height="233" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1616896714765" />
-    <state width="1624" height="336" key="GridCell.Tab.0.center" timestamp="1618387617907">
+    <state width="1624" height="191" key="GridCell.Tab.0.center" timestamp="1618477652313">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="336" key="GridCell.Tab.0.center/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1618387617907" />
+    <state width="1624" height="191" key="GridCell.Tab.0.center/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1618477652313" />
     <state width="1383" height="234" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-892.1080.1895@0.0.1440.900" timestamp="1615865158841" />
     <state width="1383" height="233" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1616127438460" />
     <state width="1383" height="233" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1616896714764" />
-    <state width="1624" height="336" key="GridCell.Tab.0.left" timestamp="1618387617906">
+    <state width="1624" height="191" key="GridCell.Tab.0.left" timestamp="1618477652312">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="336" key="GridCell.Tab.0.left/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1618387617906" />
+    <state width="1624" height="191" key="GridCell.Tab.0.left/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1618477652312" />
     <state width="1383" height="234" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-892.1080.1895@0.0.1440.900" timestamp="1615865158840" />
     <state width="1383" height="233" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1616127438458" />
     <state width="1383" height="233" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1616896714758" />
-    <state width="1624" height="336" key="GridCell.Tab.0.right" timestamp="1618387617908">
+    <state width="1624" height="191" key="GridCell.Tab.0.right" timestamp="1618477652314">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="336" key="GridCell.Tab.0.right/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1618387617908" />
+    <state width="1624" height="191" key="GridCell.Tab.0.right/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1618477652314" />
     <state width="1383" height="234" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-892.1080.1895@0.0.1440.900" timestamp="1615865158842" />
     <state width="1383" height="233" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1616127438462" />
     <state width="1383" height="233" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1616896714764" />
@@ -345,21 +366,9 @@
     </state>
     <state x="0" y="46" key="new project wizard/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615862795475" />
     <state x="0" y="25" width="1080" height="813" key="new project wizard/0.25.1440.813/-1080.-892.1080.1895@0.25.1440.813" timestamp="1615863729741" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/lc_069_sqrtX.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/lc_069_sqrtX.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="415" y="18" width="850" height="1032" key="search.everywhere.popup" timestamp="1618490236017">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="415" y="18" width="850" height="1032" key="search.everywhere.popup/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1618490236017" />
   </component>
 </project>

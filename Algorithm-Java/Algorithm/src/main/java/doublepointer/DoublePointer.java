@@ -1,4 +1,4 @@
-package DoublePointer;
+package doublepointer;
 
 /**
  * Author:Jude
