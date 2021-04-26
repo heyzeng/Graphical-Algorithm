@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cf8ea66-1bef-4082-9275-fb84582f0800" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/ls_0905_sortArrayByParity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_069_sqrtX.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0069_sqrtX.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,15 +85,15 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ls_0905_sortArrayByParity">
+  <component name="RunManager" selected="Application.lc_1322_removePalindromeSub">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc_0001_twoSum (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc_0001_twoSum" />
+    <configuration name="lc_0069_sqrtX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc_0069_sqrtX" />
       <module name="Graphical-Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -117,16 +116,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc_069_sqrtX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc_069_sqrtX" />
+    <configuration name="lc_0905_sortArrayByParity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc_0905_sortArrayByParity" />
       <module name="Graphical-Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ls_0905_sortArrayByParity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ls_0905_sortArrayByParity" />
+    <configuration name="lc_1322_removePalindromeSub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc_1322_removePalindromeSub" />
       <module name="Graphical-Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -198,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ls_0905_sortArrayByParity" />
+        <item itemvalue="Application.lc_1322_removePalindromeSub" />
+        <item itemvalue="Application.lc_0905_sortArrayByParity" />
         <item itemvalue="Application.lc_0160_getIntersectionNode" />
-        <item itemvalue="Application.lc_069_sqrtX" />
+        <item itemvalue="Application.lc_0069_sqrtX" />
         <item itemvalue="Application.lc_0345_reverseVowels" />
-        <item itemvalue="Application.lc_0001_twoSum (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +250,8 @@
       <workItem from="1618387512478" duration="106000" />
       <workItem from="1618394473563" duration="756000" />
       <workItem from="1618458154712" duration="7815000" />
-      <workItem from="1619335299794" duration="1461000" />
+      <workItem from="1619335299794" duration="2142000" />
+      <workItem from="1619408033560" duration="242000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>
@@ -309,31 +309,31 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="512" y="230" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1618490251623" />
-    <state width="1624" height="191" key="GridCell.Tab.0.bottom" timestamp="1619337957571">
+    <state width="1624" height="191" key="GridCell.Tab.0.bottom" timestamp="1619338970595">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="191" key="GridCell.Tab.0.bottom/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1619337957571" />
+    <state width="1624" height="191" key="GridCell.Tab.0.bottom/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1619338970595" />
     <state width="1383" height="234" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-892.1080.1895@0.0.1440.900" timestamp="1615865158843" />
     <state width="1383" height="233" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1616127438464" />
     <state width="1383" height="233" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1616896714765" />
-    <state width="1624" height="191" key="GridCell.Tab.0.center" timestamp="1619337957569">
+    <state width="1624" height="191" key="GridCell.Tab.0.center" timestamp="1619338970594">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="191" key="GridCell.Tab.0.center/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1619337957569" />
+    <state width="1624" height="191" key="GridCell.Tab.0.center/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1619338970594" />
     <state width="1383" height="234" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-892.1080.1895@0.0.1440.900" timestamp="1615865158841" />
     <state width="1383" height="233" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1616127438460" />
     <state width="1383" height="233" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1616896714764" />
-    <state width="1624" height="191" key="GridCell.Tab.0.left" timestamp="1619337957568">
+    <state width="1624" height="191" key="GridCell.Tab.0.left" timestamp="1619338970593">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="191" key="GridCell.Tab.0.left/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1619337957568" />
+    <state width="1624" height="191" key="GridCell.Tab.0.left/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1619338970593" />
     <state width="1383" height="234" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-892.1080.1895@0.0.1440.900" timestamp="1615865158840" />
     <state width="1383" height="233" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1616127438458" />
     <state width="1383" height="233" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1616896714758" />
-    <state width="1624" height="191" key="GridCell.Tab.0.right" timestamp="1619337957570">
+    <state width="1624" height="191" key="GridCell.Tab.0.right" timestamp="1619338970595">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="191" key="GridCell.Tab.0.right/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1619337957570" />
+    <state width="1624" height="191" key="GridCell.Tab.0.right/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1619338970595" />
     <state width="1383" height="234" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-892.1080.1895@0.0.1440.900" timestamp="1615865158842" />
     <state width="1383" height="233" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1616127438462" />
     <state width="1383" height="233" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1616896714764" />

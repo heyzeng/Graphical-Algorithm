@@ -2,7 +2,7 @@
  * Author:Jude
  * Date:2021-04-14 上午11:50
  */
-public class lc_069_sqrtX {
+public class lc_0069_sqrtX {
     public static void main(String[] args) {
         System.out.println(sqrtX(8));
     }

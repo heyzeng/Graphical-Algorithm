@@ -4,11 +4,11 @@ import java.util.Arrays;
  * Author:Jude
  * Date:2021-04-25 下午3:51
  */
-public class ls_0905_sortArrayByParity {
+public class lc_0905_sortArrayByParity {
 
     public static void main(String[] args) {
         int[] arr = {1,2,3,4};
-        
+
         System.out.println(Arrays.toString(sortArrayByParity(arr)));
 
     }
