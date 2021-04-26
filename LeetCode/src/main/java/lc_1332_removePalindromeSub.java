@@ -2,7 +2,7 @@
  * Author:Jude
  * Date:2021-04-26 上午11:40
  */
-public class lc_1322_removePalindromeSub {
+public class lc_1332_removePalindromeSub {
     public static void main(String[] args) {
         String s = "";
 

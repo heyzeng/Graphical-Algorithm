@@ -83,7 +83,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lc_1322_removePalindromeSub">
+  <component name="RunManager" selected="Application.lc_1332_removePalindromeSub">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -122,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc_1322_removePalindromeSub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc_1322_removePalindromeSub" />
+    <configuration name="lc_1332_removePalindromeSub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc_1332_removePalindromeSub" />
       <module name="Graphical-Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -195,7 +195,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lc_1322_removePalindromeSub" />
+        <item itemvalue="Application.lc_1332_removePalindromeSub" />
         <item itemvalue="Application.lc_0905_sortArrayByParity" />
         <item itemvalue="Application.lc_0160_getIntersectionNode" />
         <item itemvalue="Application.lc_0069_sqrtX" />
