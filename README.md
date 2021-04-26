@@ -22,7 +22,7 @@
 |455|[Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/)| [Java](https://github.com/heyzeng/Graphical-Algorithm/blob/master/LeetCode/src/main/java/lc_0455_findContentChildren.java)|Easy||
 |633|[Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)| [Java](https://github.com/heyzeng/Graphical-Algorithm/blob/master/LeetCode/src/main/java/lc_0633_judgeSquareSum.java)|Medium||
 |905|[Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/)|[Java]()|easy| |
-
+|1322|[Remove Palindromic Subsequences](https://leetcode-cn.com/problems/remove-palindromic-subsequences/)|[Java]()||
 
 
 
