@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3cf8ea66-1bef-4082-9275-fb84582f0800" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_1322_removePalindromeSub.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/main/java/lc_1332_removePalindromeSub.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -249,7 +250,7 @@
       <workItem from="1618394473563" duration="756000" />
       <workItem from="1618458154712" duration="7815000" />
       <workItem from="1619335299794" duration="2142000" />
-      <workItem from="1619408033560" duration="933000" />
+      <workItem from="1619408033560" duration="1226000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>
