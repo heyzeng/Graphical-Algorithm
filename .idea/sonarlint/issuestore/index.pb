@@ -52,8 +52,6 @@ b
 2LeetCode/src/main/java/lc_0215_findKthLargest.java,5/f/5f5eb556d9ad38994fe151735e58f3f8606dca92
 a
 1LeetCode/src/main/java/lc_0345_reverseVowels.java,6/0/60268b40c5c47b6eadc5eaebe3a89a417b06222c
-X
-(LeetCode/src/main/java/lc_069_sqrtX.java,2/e/2e71cb4d814978b7bf6825ab94b8492a0794766a
 u
 EAlgorithm-Java/Algorithm/src/main/java/doublepointer/DoublePointer.md,4/a/4a516a1960a09412b92baed76d11695c9afce1f7
 o
@@ -78,5 +76,5 @@ j
 :Algorithm-Java/Data-Structure/src/main/java/queue/Queue.md,9/1/918bc1513e303dae5d9d2b193906a4403e014dd6
 l
 <Algorithm-Java/Data-Structure/src/main/java/queue/Queue.java,f/5/f5d42f8d5661757888c1f915f7e9ac5f35d3a308
-e
-5LeetCode/src/main/java/ls_0905_sortArrayByParity.java,b/f/bfc168c44bebb519eae61dc712de57f0b9dd6ee3
+g
+7LeetCode/src/main/java/lc_1332_removePalindromeSub.java,f/7/f7d14e2ee67b64e8665d9d72447e5d5d096982b0
