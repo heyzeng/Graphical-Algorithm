@@ -80,3 +80,15 @@ g
 7LeetCode/src/main/java/lc_1332_removePalindromeSub.java,f/7/f7d14e2ee67b64e8665d9d72447e5d5d096982b0
 a
 1LeetCode/src/main/java/lc_0344_reverseString.java,c/3/c323baabd9bca4dc99e30cca3b551c58888f5f25
+b
+2LeetCode/src/main/java/lc_0633_judgeSquareSum.java,0/7/079956f2a538750b2e102267ea8db20d39a3c17c
+g
+7LeetCode/src/main/java/lc_0455_findContentChildren.java,5/6/5613b6a5627cbe75f893df38cb17c9849aecd91f
+e
+5LeetCode/src/main/java/lc_0905_sortArrayByParity.java,8/3/83f410a8ec9f4cc4faed38c8ff9a39245f34394e
+[
++LeetCode/src/main/java/lc_0232_MyQueue.java,8/8/883e08e59d731afe930aac739fb2891a6f97a121
+c
+3LeetCode/src/main/java/lc_0169_majorityElement.java,a/4/a49ae5965a69fa0337252d9934e8c2c82c13bd8b
+\
+,LeetCode/src/main/java/lc_0414_thirdMax.java,5/e/5ed52ec5b65622b45f3dd88e7e7e9ea49d032b2d

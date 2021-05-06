@@ -27,6 +27,6 @@
 |633|[Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)| [Java](https://github.com/heyzeng/Graphical-Algorithm/blob/master/LeetCode/src/main/java/lc_0633_judgeSquareSum.java)|Medium||
 |905|[Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/)|[Java]()|Easy| |
 |1332|[Remove Palindromic Subsequences](https://leetcode-cn.com/problems/remove-palindromic-subsequences/)|[Java](https://github.com/heyzeng/Graphical-Algorithm/blob/master/LeetCode/src/main/java/lc_1332_removePalindromeSub.java)|Easy||
-
+|1720|[Decode Xored Array](https://leetcode-cn.com/problems/decode-xored-array/)|[Java]()|Easy||
 
 
