@@ -52,7 +52,7 @@ public class lc_0001_twoSum {
         throw new IllegalArgumentException("no have");
     }
 
-    // 两边hashmap
+    // 两遍hashmap
     /*
        1、new Hashmap ,把数组塞进去
        2、遍历hashmap
