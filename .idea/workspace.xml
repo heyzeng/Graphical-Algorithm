@@ -10,6 +10,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-Java/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -271,6 +272,7 @@
       <workItem from="1620390873431" duration="649000" />
       <workItem from="1622511341624" duration="1165000" />
       <workItem from="1622643885747" duration="406000" />
+      <workItem from="1622644298882" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>

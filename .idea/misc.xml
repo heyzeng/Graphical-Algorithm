@@ -10,12 +10,12 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Algorithm-Java/Algorithm-Daily/pom.xml" />
         <option value="$PROJECT_DIR$/Algorithm-Java/Data-Structure/pom.xml" />
+        <option value="$PROJECT_DIR$/Algorithm-Java/pom.xml" />
+        <option value="$PROJECT_DIR$/LeetCode/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/Algorithm-Java/pom.xml" />
-        <option value="$PROJECT_DIR$/LeetCode/pom.xml" />
         <option value="$PROJECT_DIR$/algorithm-java/untitled/pom.xml" />
         <option value="$PROJECT_DIR$/algorithm-scala/pom.xml" />
         <option value="$PROJECT_DIR$/dataStructures/pom.xml" />
