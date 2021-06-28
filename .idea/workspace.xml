@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cf8ea66-1bef-4082-9275-fb84582f0800" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm-Java/Algorithm-Daily/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-Java/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +59,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -272,7 +267,7 @@
       <workItem from="1620390873431" duration="649000" />
       <workItem from="1622511341624" duration="1165000" />
       <workItem from="1622643885747" duration="406000" />
-      <workItem from="1622644298882" duration="304000" />
+      <workItem from="1622644298882" duration="1787000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>
@@ -386,14 +381,14 @@
     <state width="1624" height="347" key="GridCell.Tab.1.right/-1080.-475.1080.1895/0.25.1680.1025@0.25.1680.1025" timestamp="1620382751337" />
     <state width="1624" height="347" key="GridCell.Tab.1.right/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1620284552008" />
     <state width="1383" height="277" key="GridCell.Tab.1.right/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615879196578" />
-    <state x="272" y="161" key="NewModule_or_Project.wizard" timestamp="1622644206810">
+    <state x="272" y="161" key="NewModule_or_Project.wizard" timestamp="1622644504161">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="272" y="161" key="NewModule_or_Project.wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1622644206810" />
-    <state x="169" y="0" key="SettingsEditor" timestamp="1622644237996">
+    <state x="272" y="161" key="NewModule_or_Project.wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1622644504161" />
+    <state x="399" y="25" key="SettingsEditor" timestamp="1622646687686">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="169" y="0" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1622644237996" />
+    <state x="399" y="25" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1622646687686" />
     <state x="0" y="25" width="1080" height="813" key="new project wizard" timestamp="1615863729741">
       <screen x="0" y="25" width="1440" height="813" />
     </state>

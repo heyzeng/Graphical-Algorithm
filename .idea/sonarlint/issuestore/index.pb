@@ -89,3 +89,22 @@ Z
 *LeetCode/src/main/java/lc_1720_decode.java,0/5/059907f094fb6504d57cae69c7b5c971dceb767c
 g
 7LeetCode/src/main/java/lc_0176_second_highest_salary.md,3/4/340af495b88b1fe43819e61c1c8ae8d56a0b022f
+`
+0LeetCode/src/main/java/lc_1486_xorOperation.java,f/0/f0862f0faa0e2e8f4c8247dfee74eaff1bf46bef
+F
+Algorithm-Java/pom.xml,7/9/795f27a990868086c7113649e2471ebc4887dbc8
+U
+%Algorithm-Java/Data-Structure/pom.xml,4/a/4a8460553330deb683b7c43bc7802d117ae88681
+V
+&Algorithm-Java/Algorithm-Daily/pom.xml,8/f/8fbf95d86409fe6e397c0c99b7d7b1fd9d8fdc45
+P
+ Algorithm-Java/Algorithm/pom.xml,0/d/0de3c6070aace623b479efce89dcf5d7a74709c8
+T
+$LeetCode/src/main/java/leecodeSQL.md,1/4/14397bf748c93956b9e52d8b554b9f47bf1be745
+k
+;Algorithm-Java/Algorithm-Daily/src/main/java/fibonacci.java,5/d/5d7b8432c2e6a8ca07694670d52539dfbf7c2da7
+@
+LeetCode/pom.xml,f/0/f004bcc796bf2c2e63776ba08bb7d58738a3d5c4
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
