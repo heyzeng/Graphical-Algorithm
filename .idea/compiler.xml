@@ -14,7 +14,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Algorithm" target="1.8" />
       <module name="data-Structures" target="1.5" />
       <module name="dataStructure" target="1.8" />
       <module name="dataStructures" target="1.5" />
