@@ -5,10 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cf8ea66-1bef-4082-9275-fb84582f0800" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0009_isPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0001_twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0001_twoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0009_isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0009_isPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0028_strStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0028_strStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0069_sqrtX.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0069_sqrtX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0118_pascals_triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0118_pascals_triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0160_getIntersectionNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0160_getIntersectionNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0169_majorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0169_majorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0175_combine_two_tables.md" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0175_combine_two_tables.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0176_second_highest_salary.md" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0176_second_highest_salary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0215_findKthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0215_findKthLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0232_MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0232_MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0344_reverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0344_reverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0345_reverseVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0345_reverseVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0414_thirdMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0414_thirdMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0455_findContentChildren.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0455_findContentChildren.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0633_judgeSquareSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0633_judgeSquareSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_0905_sortArrayByParity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0905_sortArrayByParity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_1332_removePalindromeSub.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_1332_removePalindromeSub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_1486_xorOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_1486_xorOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/lc_1720_decode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_1720_decode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/leecodeSQL.md" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/leecodeSQL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/test/java/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +78,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Algorithm-Java/Algorithm-Daily" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Leetcodee/src/main" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -82,6 +105,8 @@
       <recent name="$PROJECT_DIR$/Algorithm-Java/Algorithm" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Leetcodee/src/main" />
+      <recent name="$PROJECT_DIR$/Leetcodee/src/main/java" />
       <recent name="$PROJECT_DIR$/Algorithm-Java/Algorithm-Daily" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/algorithm-java/src/main/java" />
@@ -90,7 +115,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lc_0009_isPalindrome">
+  <component name="RunManager" selected="Application.lc_0001_twoSum (1)">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -111,6 +136,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lc_0001_twoSum (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc_0001_twoSum" />
+      <module name="Leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="lc_0001_twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lc_0001_twoSum" />
       <module name="leetcode" />
@@ -127,17 +160,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc_0414_thirdMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc_0414_thirdMax" />
-      <module name="Graphical-Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lc_1720_decode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc_1720_decode" />
-      <module name="Graphical-Algorithm" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -208,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lc_0001_twoSum (1)" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.lc_0001_twoSum" />
         <item itemvalue="Application.lc_0009_isPalindrome" />
         <item itemvalue="Application.binarySearch" />
-        <item itemvalue="Application.lc_0001_twoSum" />
-        <item itemvalue="Application.lc_1720_decode" />
-        <item itemvalue="Application.lc_0414_thirdMax" />
       </list>
     </recent_temporary>
   </component>
@@ -273,6 +298,7 @@
       <workItem from="1622644298882" duration="1787000" />
       <workItem from="1626707056472" duration="1051000" />
       <workItem from="1626709007105" duration="411000" />
+      <workItem from="1626710339648" duration="819000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>
@@ -316,30 +342,30 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="512" y="230" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1618490251623" />
-    <state width="1624" height="197" key="GridCell.Tab.0.bottom" timestamp="1626709295573">
+    <state width="1624" height="286" key="GridCell.Tab.0.bottom" timestamp="1626711116238">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1624" height="197" key="GridCell.Tab.0.bottom/-1080.-475.1080.1895/0.25.1680.1025@0.25.1680.1025" timestamp="1620382751352" />
     <state width="1624" height="197" key="GridCell.Tab.0.bottom/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1620284909041" />
-    <state width="1624" height="197" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1626709295573" />
-    <state width="1624" height="197" key="GridCell.Tab.0.center" timestamp="1626709295571">
+    <state width="1624" height="286" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1626711116238" />
+    <state width="1624" height="286" key="GridCell.Tab.0.center" timestamp="1626711116237">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1624" height="197" key="GridCell.Tab.0.center/-1080.-475.1080.1895/0.25.1680.1025@0.25.1680.1025" timestamp="1620382751349" />
     <state width="1624" height="197" key="GridCell.Tab.0.center/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1620284909039" />
-    <state width="1624" height="197" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1626709295571" />
-    <state width="1624" height="197" key="GridCell.Tab.0.left" timestamp="1626709295570">
+    <state width="1624" height="286" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1626711116237" />
+    <state width="1624" height="286" key="GridCell.Tab.0.left" timestamp="1626711116236">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1624" height="197" key="GridCell.Tab.0.left/-1080.-475.1080.1895/0.25.1680.1025@0.25.1680.1025" timestamp="1620382751348" />
     <state width="1624" height="197" key="GridCell.Tab.0.left/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1620284909038" />
-    <state width="1624" height="197" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1626709295570" />
-    <state width="1624" height="197" key="GridCell.Tab.0.right" timestamp="1626709295572">
+    <state width="1624" height="286" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1626711116236" />
+    <state width="1624" height="286" key="GridCell.Tab.0.right" timestamp="1626711116237">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1624" height="197" key="GridCell.Tab.0.right/-1080.-475.1080.1895/0.25.1680.1025@0.25.1680.1025" timestamp="1620382751351" />
     <state width="1624" height="197" key="GridCell.Tab.0.right/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1620284909040" />
-    <state width="1624" height="197" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1626709295572" />
+    <state width="1624" height="286" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1626711116237" />
     <state width="1624" height="347" key="GridCell.Tab.1.bottom" timestamp="1620382751339">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
@@ -360,14 +386,18 @@
     </state>
     <state width="1624" height="347" key="GridCell.Tab.1.right/-1080.-475.1080.1895/0.25.1680.1025@0.25.1680.1025" timestamp="1620382751337" />
     <state width="1624" height="347" key="GridCell.Tab.1.right/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1620284552008" />
-    <state x="272" y="161" key="NewModule_or_Project.wizard" timestamp="1622644504161">
+    <state x="272" y="161" key="NewModule_or_Project.wizard" timestamp="1626710421502">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="272" y="161" key="NewModule_or_Project.wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1622644504161" />
-    <state x="173" y="25" width="1280" height="1025" key="SettingsEditor" timestamp="1626709474606">
+    <state x="272" y="161" key="NewModule_or_Project.wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1626710421502" />
+    <state x="173" y="25" width="1280" height="1025" key="SettingsEditor" timestamp="1626710822341">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="173" y="25" width="1280" height="1025" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1626709474606" />
+    <state x="173" y="25" width="1280" height="1025" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1626710822341" />
+    <state x="420" y="107" key="new project wizard" timestamp="1626710943441">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="420" y="107" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1626710943441" />
     <state x="415" y="18" width="850" height="1032" key="search.everywhere.popup" timestamp="1618490236017">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

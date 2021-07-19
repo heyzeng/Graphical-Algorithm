@@ -11,8 +11,6 @@
     <modules>
         <module>algorithm-java</module>
         <module>leetcode</module>
-        <module>algorithm-scala</module>
-        <module>Algorithm-Scala</module>
     </modules>
 
 
