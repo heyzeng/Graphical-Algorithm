@@ -5,8 +5,10 @@
 
 public class lc_0009_isPalindrome {
     public static void main(String[] args) {
+
         int x = 121;
-        isPalindrome(x);
+        System.out.println(isPalindrome(x));
+
     }
 
     public static boolean isPalindrome(int x) {
@@ -17,6 +19,7 @@ public class lc_0009_isPalindrome {
             revertedNumber = revertedNumber * 10 + x % 10;
             x /= 10;
         }
+        
         return x == revertedNumber || x == revertedNumber / 10;
 
     }
