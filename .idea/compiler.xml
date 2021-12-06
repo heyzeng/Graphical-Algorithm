@@ -7,9 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Data-Structure" />
-        <module name="Algorithm-Scala" />
         <module name="Algorithm" />
         <module name="algorithm-scala" />
+        <module name="Algorithm-Scala" />
         <module name="Leetcode" />
       </profile>
     </annotationProcessing>
