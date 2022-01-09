@@ -19,7 +19,7 @@ public class lc_0009_isPalindrome {
             revertedNumber = revertedNumber * 10 + x % 10;
             x /= 10;
         }
-        
+
         return x == revertedNumber || x == revertedNumber / 10;
 
     }
