@@ -65,7 +65,6 @@ public class lc_0001_twoSum {
         }
 
         for (int i = 0; i < numbers.length; i++) {
-
             int complement = target - numbers[i];
             if (hashMap.containsKey(complement) && hashMap.get(complement) != i) {
                 return new int[]{i, hashMap.get(complement)};

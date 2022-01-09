@@ -3,12 +3,29 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3cf8ea66-1bef-4082-9275-fb84582f0800" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0215_findKthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0215_findKthLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0001_twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0001_twoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,17 +109,30 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.lc_0001_twoSum">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="binarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarysearch.binarySearch" />
+      <module name="Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="lc_0001_twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lc_0001_twoSum" />
-      <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,9 +145,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc_0215_findKthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc_0215_findKthLargest" />
-      <module name="Data-Structure" />
+    <configuration name="lc_0069_sqrtX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc_0069_sqrtX" />
+      <module name="Leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,14 +156,6 @@
     <configuration name="lc_0215_findKthLargest" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lc_0215_findKthLargest" />
       <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lc_0344_reverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc_0344_reverseString" />
-      <module name="Leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -210,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.lc_0215_findKthLargest" />
-        <item itemvalue="Application.lc_0215_findKthLargest" />
-        <item itemvalue="Application.lc_0009_isPalindrome" />
         <item itemvalue="Application.lc_0001_twoSum" />
+        <item itemvalue="Application.binarySearch" />
+        <item itemvalue="Application.lc_0069_sqrtX" />
+        <item itemvalue="Application.lc_0009_isPalindrome" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +300,8 @@
       <workItem from="1626709007105" duration="411000" />
       <workItem from="1626710339648" duration="819000" />
       <workItem from="1626711230829" duration="774000" />
-      <workItem from="1638806714360" duration="290000" />
+      <workItem from="1638806714360" duration="6442000" />
+      <workItem from="1640505579828" duration="1676000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>
@@ -309,14 +333,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="344" y="138" key="#lc_0001_twoSum" timestamp="1638806948467">
+    <state x="300" y="177" width="1248" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638807030218">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="344" y="138" key="#lc_0001_twoSum/0.0.1680.1050@0.0.1680.1050" timestamp="1638806948467" />
-    <state x="344" y="138" key="#lc_0009_isPalindrome" timestamp="1638806907396">
+    <state x="300" y="177" width="1248" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1638807030218" />
+    <state x="344" y="138" key="#lc_0001_twoSum" timestamp="1639065341140">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="344" y="138" key="#lc_0009_isPalindrome/0.0.1680.1050@0.0.1680.1050" timestamp="1638806907396" />
+    <state x="344" y="138" key="#lc_0001_twoSum/0.0.1680.1050@0.0.1680.1050" timestamp="1639065341140" />
+    <state x="344" y="138" key="#lc_0009_isPalindrome" timestamp="1639065356896">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="344" y="138" key="#lc_0009_isPalindrome/0.0.1680.1050@0.0.1680.1050" timestamp="1639065356896" />
     <state x="344" y="138" key="#lc_0215_findKthLargest" timestamp="1638806987771">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -325,21 +353,21 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="344" y="138" key="#lc_0215_findKthLargest_(1)/0.0.1680.1050@0.0.1680.1050" timestamp="1638807004537" />
-    <state width="1624" height="323" key="GridCell.Tab.0.bottom" timestamp="1638806990337">
+    <state width="1624" height="323" key="GridCell.Tab.0.bottom" timestamp="1639322136894">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="323" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1638806990337" />
-    <state width="1624" height="323" key="GridCell.Tab.0.center" timestamp="1638806990336">
+    <state width="1624" height="323" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1639322136894" />
+    <state width="1624" height="323" key="GridCell.Tab.0.center" timestamp="1639322136893">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="323" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1638806990336" />
-    <state width="1624" height="323" key="GridCell.Tab.0.left" timestamp="1638806990336">
+    <state width="1624" height="323" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1639322136893" />
+    <state width="1624" height="323" key="GridCell.Tab.0.left" timestamp="1639322136893">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="323" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1638806990336" />
-    <state width="1624" height="323" key="GridCell.Tab.0.right" timestamp="1638806990337">
+    <state width="1624" height="323" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1639322136893" />
+    <state width="1624" height="323" key="GridCell.Tab.0.right" timestamp="1639322136894">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="323" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1638806990337" />
+    <state width="1624" height="323" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1639322136894" />
   </component>
 </project>
