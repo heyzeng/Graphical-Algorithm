@@ -26,31 +26,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0001_twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_0001_twoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0009_isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_0009_isPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0028_strStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_0028_strStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0069_sqrtX.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_0069_sqrtX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0118_pascals_triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_0118_pascals_triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0160_getIntersectionNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_0160_getIntersectionNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0169_majorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_0169_majorityElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0175_combine_two_tables.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_0175_combine_two_tables.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0176_second_highest_salary.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_0176_second_highest_salary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0215_findKthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_0215_findKthLargest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0232_MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_0232_MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0344_reverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_0344_reverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0345_reverseVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_0345_reverseVowels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0414_thirdMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_0414_thirdMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0455_findContentChildren.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_0455_findContentChildren.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0633_judgeSquareSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_0633_judgeSquareSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_0905_sortArrayByParity.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_0905_sortArrayByParity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_1332_removePalindromeSub.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_1332_removePalindromeSub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_1486_xorOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_1486_xorOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/lc_1720_decode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/lc_1720_decode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/leecodeSQL.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/leecodeSQL.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodee/src/main/java/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,30 +110,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lc_0009_isPalindrome">
+  <component name="RunManager" selected="Application.lc_0169_majorityElement">
     <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="binarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarysearch.binarySearch" />
-      <module name="Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="binarysearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fibonacci" />
-      <module name="Algorithm-Daily" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -165,14 +119,30 @@
     </configuration>
     <configuration name="lc_0001_twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lc_0001_twoSum" />
-      <module name="leetcodee" />
+      <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="lc_0009_isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lc_0009_isPalindrome" />
-      <module name="leetcodee" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc_0169_majorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc_0169_majorityElement" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc_0215_findKthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc_0215_findKthLargest" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -257,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lc_0169_majorityElement" />
+        <item itemvalue="Application.lc_0215_findKthLargest" />
         <item itemvalue="Application.lc_0009_isPalindrome" />
         <item itemvalue="Application.lc_0001_twoSum" />
         <item itemvalue="Application.lc_0633_judgeSquareSum" />
-        <item itemvalue="Application.fibonacci" />
-        <item itemvalue="Application.binarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +296,8 @@
       <workItem from="1626711230829" duration="774000" />
       <workItem from="1638806714360" duration="6442000" />
       <workItem from="1640505579828" duration="1676000" />
-      <workItem from="1641695672324" duration="1000000" />
+      <workItem from="1641695672324" duration="1690000" />
+      <workItem from="1642347847932" duration="601000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>
@@ -382,22 +353,26 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="344" y="138" key="#lc_0215_findKthLargest_(1)/0.0.1680.1050@0.0.1680.1050" timestamp="1638807004537" />
-    <state width="1624" height="328" key="GridCell.Tab.0.bottom" timestamp="1641696487955">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1624" height="328" key="GridCell.Tab.0.bottom" timestamp="1642238178969">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1624" height="328" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1641696487955" />
-    <state width="1624" height="328" key="GridCell.Tab.0.center" timestamp="1641696487954">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1624" height="328" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1641696789715" />
+    <state width="1624" height="328" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1642238178969" />
+    <state width="1624" height="328" key="GridCell.Tab.0.center" timestamp="1642238178968">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1624" height="328" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1641696487954" />
-    <state width="1624" height="328" key="GridCell.Tab.0.left" timestamp="1641696487954">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1624" height="328" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1641696789715" />
+    <state width="1624" height="328" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1642238178968" />
+    <state width="1624" height="328" key="GridCell.Tab.0.left" timestamp="1642238178968">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1624" height="328" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1641696487954" />
-    <state width="1624" height="328" key="GridCell.Tab.0.right" timestamp="1641696487955">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1624" height="328" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1641696789714" />
+    <state width="1624" height="328" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1642238178968" />
+    <state width="1624" height="328" key="GridCell.Tab.0.right" timestamp="1642238178969">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1624" height="328" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1641696487955" />
+    <state width="1624" height="328" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1641696789715" />
+    <state width="1624" height="328" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1642238178969" />
     <state x="420" y="107" key="new project wizard" timestamp="1641696425684">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

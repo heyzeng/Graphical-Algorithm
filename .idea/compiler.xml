@@ -9,13 +9,8 @@
         <module name="Data-Structure" />
         <module name="Algorithm-Scala" />
         <module name="Algorithm" />
-        <module name="leetcodee" />
+        <module name="leetcode" />
         <module name="algorithm-scala" />
-      </profile>
-      <profile name="Annotation profile for algorithm" enabled="true">
-        <sourceOutputDir name="../../target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,7 +18,6 @@
       <module name="data-Structures" target="1.5" />
       <module name="dataStructure" target="1.8" />
       <module name="dataStructures" target="1.5" />
-      <module name="leetcode" target="1.8" />
       <module name="test" target="1.8" />
       <module name="untitled" target="1.5" />
     </bytecodeTargetLevel>
