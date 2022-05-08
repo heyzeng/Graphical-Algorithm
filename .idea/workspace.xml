@@ -23,8 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cf8ea66-1bef-4082-9275-fb84582f0800" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0027_RemoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lc_0169_majorityElement">
+  <component name="RunManager" selected="Application.lc_0027_RemoveElement">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -125,6 +125,14 @@
     <configuration name="lc_0009_isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lc_0009_isPalindrome" />
       <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc_0027_RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc_0027_RemoveElement" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,14 +156,6 @@
     <configuration name="lc_0215_findKthLargest" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lc_0215_findKthLargest" />
       <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lc_0633_judgeSquareSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc_0633_judgeSquareSum" />
-      <module name="test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -225,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lc_0027_RemoveElement" />
         <item itemvalue="Application.lc_0169_majorityElement" />
         <item itemvalue="Application.lc_0215_findKthLargest" />
         <item itemvalue="Application.lc_0009_isPalindrome" />
         <item itemvalue="Application.lc_0001_twoSum" />
-        <item itemvalue="Application.lc_0633_judgeSquareSum" />
       </list>
     </recent_temporary>
   </component>
@@ -296,6 +296,7 @@
       <workItem from="1640505579828" duration="1676000" />
       <workItem from="1641695672324" duration="1690000" />
       <workItem from="1642347847932" duration="1371000" />
+      <workItem from="1652023907264" duration="365000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>

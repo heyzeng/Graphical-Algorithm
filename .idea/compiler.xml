@@ -9,8 +9,8 @@
         <module name="Data-Structure" />
         <module name="Algorithm-Scala" />
         <module name="Algorithm" />
-        <module name="leetcode" />
         <module name="algorithm-scala" />
+        <module name="leetcode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
