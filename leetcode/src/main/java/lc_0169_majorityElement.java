@@ -11,7 +11,7 @@ public class lc_0169_majorityElement {
         System.out.println(majorityElementMoore(nums));
     }
 
-    // 1 排序、去中间数是最多的
+    // 1 排序、投票算法
     public static int majorityElement(int[] arr) {
         Arrays.sort(arr);
         return arr[arr.length / 2] ;
@@ -22,7 +22,7 @@ public class lc_0169_majorityElement {
 
     public static int majorityElementMoore ( int[] nums) {
 
-        // 初试化
+        // 初始化
         int mooreValue = nums[0];
         int count = 1; // 投票
 
@@ -37,9 +37,7 @@ public class lc_0169_majorityElement {
             }
         }
         // 逻辑
-        // return
         return mooreValue;
-
     }
 }
 
