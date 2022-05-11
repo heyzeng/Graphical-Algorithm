@@ -23,10 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cf8ea66-1bef-4082-9275-fb84582f0800" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0072_ClimbStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0136_SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0704_Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/lc_0169_majorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0169_majorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -110,16 +110,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lc_0136_SingleNumber">
+  <component name="RunManager" selected="Application.lc_0704_Search">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lc_0009_isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc_0009_isPalindrome" />
-      <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -159,6 +152,14 @@
     <configuration name="lc_0215_findKthLargest" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lc_0215_findKthLargest" />
       <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc_0704_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc_0704_Search" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -228,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lc_0704_Search" />
         <item itemvalue="Application.lc_0136_SingleNumber" />
         <item itemvalue="Application.lc_0027_RemoveElement" />
         <item itemvalue="Application.lc_0169_majorityElement" />
         <item itemvalue="Application.lc_0215_findKthLargest" />
-        <item itemvalue="Application.lc_0009_isPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +300,8 @@
       <workItem from="1640505579828" duration="1676000" />
       <workItem from="1641695672324" duration="1690000" />
       <workItem from="1642347847932" duration="1371000" />
-      <workItem from="1652023907264" duration="2156000" />
+      <workItem from="1652023907264" duration="2321000" />
+      <workItem from="1652198740141" duration="744000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>
@@ -331,22 +333,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1624" height="328" key="GridCell.Tab.0.bottom" timestamp="1652025114554">
+    <state width="1624" height="328" key="GridCell.Tab.0.bottom" timestamp="1652285655800">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="328" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1652025114554" />
-    <state width="1624" height="328" key="GridCell.Tab.0.center" timestamp="1652025114553">
+    <state width="1624" height="328" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1652285655800" />
+    <state width="1624" height="328" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1652119522545" />
+    <state width="1624" height="328" key="GridCell.Tab.0.center" timestamp="1652285655799">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="328" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1652025114553" />
-    <state width="1624" height="328" key="GridCell.Tab.0.left" timestamp="1652025114553">
+    <state width="1624" height="328" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1652285655799" />
+    <state width="1624" height="328" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1652119522508" />
+    <state width="1624" height="328" key="GridCell.Tab.0.left" timestamp="1652285655799">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="328" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1652025114553" />
-    <state width="1624" height="328" key="GridCell.Tab.0.right" timestamp="1652025114554">
+    <state width="1624" height="328" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1652285655799" />
+    <state width="1624" height="328" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1652119522507" />
+    <state width="1624" height="328" key="GridCell.Tab.0.right" timestamp="1652285655800">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="328" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1652025114554" />
+    <state width="1624" height="328" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1652285655800" />
+    <state width="1624" height="328" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1652119522510" />
+    <state x="200" y="1" key="SettingsEditor" timestamp="1652285796286">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="200" y="1" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1652285796286" />
     <state x="458" y="205" width="763" height="640" key="find.popup" timestamp="1652106429172">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
