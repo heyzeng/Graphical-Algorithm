@@ -27,4 +27,12 @@ public class test {
        }
        throw new IllegalArgumentException("NO HAVE");
     }
+    /**
+     * 斐波那契
+     * 1 1 2 3 5
+     */
+    public static int x (int n ) {
+        if (n == 1 || n==2 ) return n;
+        return x(n-1) + x(n-2);
+    }
 }

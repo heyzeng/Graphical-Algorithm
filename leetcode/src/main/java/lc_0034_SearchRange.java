@@ -22,7 +22,7 @@ public class lc_0034_SearchRange {
 
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] == target) {
-                ints  = 
+//                ints  = 
             }
         }
 

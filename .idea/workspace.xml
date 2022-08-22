@@ -23,13 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cf8ea66-1bef-4082-9275-fb84582f0800" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/TestSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0034_SearchRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/test/java/MyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/lc_0704_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0704_Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/lc_0034_SearchRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0034_SearchRange.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -306,7 +301,7 @@
       <workItem from="1652023907264" duration="2321000" />
       <workItem from="1652198740141" duration="744000" />
       <workItem from="1652286285673" duration="2170000" />
-      <workItem from="1655995730570" duration="21000" />
+      <workItem from="1655995730570" duration="779000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>
