@@ -23,8 +23,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cf8ea66-1bef-4082-9275-fb84582f0800" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/lc_0034_SearchRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0034_SearchRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Java/Algorithm/src/main/java/binarysearch/binarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-Java/Algorithm/src/main/java/binarysearch/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Java/Algorithm/src/main/java/binarysearch/binarySearch.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-Java/Algorithm/src/main/java/binarysearch/BinarySearch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Java/Algorithm/src/main/java/recursion/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-Java/Algorithm/src/main/java/recursion/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/lc_0001_twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0001_twoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/lc_0027_RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/lc_0027_RemoveElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,8 +114,44 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lc_0034_SearchRange">
+  <component name="RunManager" selected="Application.lc_0027_RemoveElement">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarysearch.BinarySearch" />
+      <module name="Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.Recursion" />
+      <module name="Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc_0001_twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc_0001_twoSum" />
+      <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,37 +167,6 @@
     </configuration>
     <configuration name="lc_0034_SearchRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lc_0034_SearchRange" />
-      <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lc_0136_SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc_0136_SingleNumber" />
-      <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lc_0169_majorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc_0169_majorityElement" />
-      <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lc_0215_findKthLargest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lc_0215_findKthLargest" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lc_0704_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc_0704_Search" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -227,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lc_0034_SearchRange" />
-        <item itemvalue="Application.lc_0704_Search" />
-        <item itemvalue="Application.lc_0136_SingleNumber" />
         <item itemvalue="Application.lc_0027_RemoveElement" />
-        <item itemvalue="Application.lc_0169_majorityElement" />
+        <item itemvalue="Application.lc_0001_twoSum" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.Recursion" />
+        <item itemvalue="Application.lc_0034_SearchRange" />
       </list>
     </recent_temporary>
   </component>
@@ -302,6 +313,7 @@
       <workItem from="1652198740141" duration="744000" />
       <workItem from="1652286285673" duration="2170000" />
       <workItem from="1655995730570" duration="779000" />
+      <workItem from="1661180189885" duration="3798000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1583848563100</created>
@@ -333,37 +345,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="606" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1652545925731">
+    <state width="1624" height="198" key="GridCell.Tab.0.bottom" timestamp="1662633188663">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="606" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1652545925731" />
-    <state width="1624" height="198" key="GridCell.Tab.0.bottom" timestamp="1653216380538">
-      <screen x="0" y="25" width="1680" height="1025" />
+    <state width="1624" height="198" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1662633188663" />
+    <state width="1624" height="198" key="GridCell.Tab.0.center" timestamp="1662633188662">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="198" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1652546278797" />
-    <state width="1624" height="198" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1653216380538" />
-    <state width="1624" height="198" key="GridCell.Tab.0.center" timestamp="1653216380537">
-      <screen x="0" y="25" width="1680" height="1025" />
+    <state width="1624" height="198" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1662633188662" />
+    <state width="1624" height="198" key="GridCell.Tab.0.left" timestamp="1662633188662">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="198" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1652546278797" />
-    <state width="1624" height="198" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1653216380537" />
-    <state width="1624" height="198" key="GridCell.Tab.0.left" timestamp="1653216380536">
-      <screen x="0" y="25" width="1680" height="1025" />
+    <state width="1624" height="198" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1662633188662" />
+    <state width="1624" height="198" key="GridCell.Tab.0.right" timestamp="1662633188662">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1624" height="198" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1652546278796" />
-    <state width="1624" height="198" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1653216380536" />
-    <state width="1624" height="198" key="GridCell.Tab.0.right" timestamp="1653216380537">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1624" height="198" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1652546278797" />
-    <state width="1624" height="198" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1653216380537" />
+    <state width="1624" height="198" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1662633188662" />
     <state x="200" y="1" key="SettingsEditor" timestamp="1655995752731">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="200" y="1" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1655995752731" />
-    <state x="458" y="205" width="763" height="640" key="find.popup" timestamp="1652106429172">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="458" y="205" width="763" height="640" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1652106429172" />
   </component>
 </project>

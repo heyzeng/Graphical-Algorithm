@@ -7,10 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Data-Structure" />
-        <module name="Algorithm" />
-        <module name="leetcode" />
-        <module name="algorithm-scala" />
         <module name="Algorithm-Scala" />
+        <module name="Algorithm" />
+        <module name="algorithm-scala" />
+        <module name="leetcode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

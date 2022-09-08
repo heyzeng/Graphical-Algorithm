@@ -117,8 +117,11 @@ public class Recursion {
      * 		4. 当 left > right 不能比较，说明找不到，返回 -1
      */
 
+
     public static int binarySearch(int[] arr,int left, int right, int findNum,int midNum) {
-        if (right < left) return -1;
+        if (right < left)
+        {return -1;}
+
         midNum = (left + right) / 2;
 
         if (findNum == arr[midNum]) {

@@ -10,8 +10,8 @@ public class lc_0001_twoSum {
 
         int[] numbers = {1, 2, 8, 10};
         System.out.println(Arrays.toString(twoSum(numbers, 10)));
-        System.out.println(Arrays.toString(DoublePointer(numbers, 10)));
         System.out.println(Arrays.toString(twoHashMap(numbers, 10)));
+        System.out.println(Arrays.toString(doublePointer(numbers, 10)));
     }
 
     //1 暴力遍历
@@ -34,18 +34,18 @@ public class lc_0001_twoSum {
     }
 
     // 双指针解法
-    public static int[] DoublePointer(int[] numbers, int target) {
 
-        int i = 0;
+    public static int[] doublePointer(int[] numbers, int target) {
+        int i = 0; //while 条件
         int j = numbers.length - 1;
 
         while (i < j) {
             int num = numbers[i] + numbers[j];
-            if (num == target) {
+            if (target == num) {
                 return new int[]{i, j};
-            } else if (target < num) {
+            } else if (target < num) { //目标值小于收尾和，则j--
                 j--;
-            } else {
+            } else { // 反正i++
                 i++;
             }
         }
