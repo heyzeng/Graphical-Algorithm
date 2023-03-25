@@ -54,8 +54,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$USER_HOME$/IDEAProject/apache-maven-3.3.9" />
-        <option name="userSettingsFile" value="$USER_HOME$/IDEAProject/apache-maven-3.3.9/conf/settings.xml" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../apache-maven-3.3.9/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -114,7 +114,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lc_0027_RemoveElement">
+  <component name="RunManager" selected="Application.lc_0001_twoSum">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="binarysearch.BinarySearch" />
       <module name="Algorithm" />
@@ -238,8 +238,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lc_0027_RemoveElement" />
         <item itemvalue="Application.lc_0001_twoSum" />
+        <item itemvalue="Application.lc_0027_RemoveElement" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.lc_0034_SearchRange" />

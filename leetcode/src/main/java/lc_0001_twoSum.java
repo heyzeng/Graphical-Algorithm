@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 
 /*
-    LeeCode：两数之和
+    LeeCode：两数之和.
  */
 public class lc_0001_twoSum {
 

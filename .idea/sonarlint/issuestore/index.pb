@@ -77,9 +77,6 @@ b
 2Leetcode/src/main/java/lc_0215_findKthLargest.java,3/4/34e9f0ece915325e63c2fd93c8af4fae75912796
 Y
 )Leetcode/src/main/java/lc_0069_sqrtX.java,a/a/aa155c540de4a4c69bb4b9b4845d4c30a7aa6133
-:
-
-.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 k
 ;Algorithm-Java/Algorithm-Daily/src/main/java/fibonacci.java,5/d/5d7b8432c2e6a8ca07694670d52539dfbf7c2da7
 a
